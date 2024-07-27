@@ -1,0 +1,50 @@
+/* tips.css */
+body {
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #ffffff;
+    color: #333333;
+  }
+  
+  .container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px;
+    background-color: #f0f8ff;
+    border-radius: 10px;
+    padding: 15px;
+  }
+  
+  .logo {
+    width: 50px;
+    height: 50px;
+    margin-right: 15px;
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #ff6600;
+    margin: 0;
+  }
+  
+  .tip {
+    background-color: #fff5e6;
+    border-left: 3px solid #0077be;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 15px;
+    font-size: 16px;
+    line-height: 1.6;
+  }
+  
+  .tip i {
+    color: #0077be;
+    margin-right: 10px;
+  }
